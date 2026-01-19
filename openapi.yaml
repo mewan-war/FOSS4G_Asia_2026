@@ -1,8 +1,0 @@
-openapi: 3.0.3
-info:
-  title: pygeoapi local server
-  description: Local pygeoapi instance serving Zarr
-  version: "0.1"
-servers:
-  - url: http://localhost:5000
-paths: {}
